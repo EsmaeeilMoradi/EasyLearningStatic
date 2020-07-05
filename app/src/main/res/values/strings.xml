@@ -1,0 +1,57 @@
+<resources>
+    <!--<string name="app_name">My Bits and Pizzas</string>-->
+    <string name="create_order">CreateOrder</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">share</string>>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="contentsTraining">
+        <item>Converter unit </item>
+        <item>Equilibrium Of A Particle 2D</item>
+        <item>AnalysisOfBeam</item>
+        <item>Chapter4</item>
+        <item>Chapter5</item>
+        <item>Chapter6</item>
+        <item>Chapter7</item>
+        <item>Chapter8</item>
+        <item>Chapter9</item>
+        <item>Chapter10</item>
+    </string-array>
+    <string name="home_tab">Home</string>
+    <string name="chapters_tab">Chapters</string>
+    <string name="program_tab">ConnectMe</string>
+    <string name="connect_tab">Training Apps</string>
+    <string name="company_name">EsmaeeilMoradi</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="home_text">Since we opened our doors in 2017, Bits and Pizzas
+        has built its reputation as one of America’s best Italian-Digital restaurants.
+         Some people believe eating out is about being with your friends and family.
+        We believe that good food is best enjoyed while staring at your phone.</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+
+    <!--resource-->
+    <string name="app_name">Easy Learning Static</string>
+    <string name="btn1">مقدمه</string>
+    <string name="btn2">ورود به برنامه</string>
+    <string name="btn3">تنظیمات</string>
+    <string name="btn4">منابع</string>
+    <string name="btn5">تماس با ما</string>
+    <string name="btn6">خروج</string>
+    <string name="intro_txt">اولین اپلیکیشن اموزشی دانشگاهی </string>
+    <string name="intro_txt2">\n اولین اپلیکیشن اموزشی دانشگاهی
+        این کتاب شامل تمام فصول کاب استاتیک مریام،جنسون،تجربه شخصی بنده و ... می باشد.
+        نحوه استافاده از این کتاب به این صورت است که هر فصل مشتمل بر دو قسمت است. قسمت اول اموزش و قسمت دوم شامل محاسبات است که میتوانید مثال های قسمت اول را در این قسمت حل کنید.
+        روش استفاده هم از قسمت اول شروع به مطالعه کرده،تمارین را حل کرده .و از محاسبگر میتوانید برای حل هر مثال دلخواه استفاده کنید.
+    </string>
+    <string name="txtConvert">Please select Quantity </string>
+
+</resources>
